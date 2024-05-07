@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about coding and on a journey to master the art of web development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhoumik09&label=Profile%20views&color=0e75b6&style=flat" alt="Bhoumik09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhoumik09&theme=" alt="Bhoumik09" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhoumik09&theme=" alt="Bhoumik09" /></a> </p>
 
 - 🔭 I’m currently working on [CollabSphere](https://github.com/Bhoumik09/CollabSphere)
 - 🌱 I’m currently learning **React JS **
@@ -13,7 +13,7 @@
 <div> <a href="https://www.linkedin.com/in/Bhoumik Chopra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Bhoumik09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/bhoumik_01" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+</div><h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Bhoumik Chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Bhoumik Chopra" height="30" width="40" /></a><a href="https://instagram.com/bhoumik_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="bhoumik_01" height="30" width="40" /></a></p>
 
