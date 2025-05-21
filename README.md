@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhoumik09&theme=" alt="Bhoumik09" /></a> </p>
 
-- 🔭 I’m currently working on [CollabSphere](https://github.com/Bhoumik09/CollabSphere)
-- 🌱 I’m currently learning **React JS **
+- 🔭 I’m currently working with ISABE
+- 🌱 I’m currently learning **Next JS **
 
 
 
